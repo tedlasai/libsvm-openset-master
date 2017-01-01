@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../..//libMR/weibull.h
+
+/home/tedlasai/Dropbox/SAITEDLA/School/UCCS/Lab/2015/LIBSVm/libsvm-openset-master/libMR/examples/wbl-test.c
+stdio.h
+-
+stdlib.h
+-
+libMR/weibull.h
+/home/tedlasai/Dropbox/SAITEDLA/School/UCCS/Lab/2015/LIBSVm/libsvm-openset-master/libMR/examples/libMR/weibull.h
+

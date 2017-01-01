@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//libMR/MetaRecognition.h
+config.h
+../libMR/config.h
+stdio.h
+-
+istream
+-
+ostream
+-
+iostream
+-
+string
+-
+weibull.h
+../libMR/weibull.h
+
+../libMR/weibull.h
+
+/home/tedlasai/Dropbox/SAITEDLA/School/UCCS/Lab/2015/LIBSVm/libsvm-openset-master/libMR/examples/mr-test.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+iostream
+-
+fstream
+-
+libMR/MetaRecognition.h
+/home/tedlasai/Dropbox/SAITEDLA/School/UCCS/Lab/2015/LIBSVm/libsvm-openset-master/libMR/examples/libMR/MetaRecognition.h
+

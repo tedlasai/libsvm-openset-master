@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/wbl-test.dir/wbl-test.c.o  -o wbl-test -rdynamic ../libMR/libMR.so -Wl,-rpath,/home/tedlasai/Dropbox/SAITEDLA/School/UCCS/Lab/2015/LIBSVm/libsvm-openset-master/libMR/build/libMR: 

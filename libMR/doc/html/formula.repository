@@ -1,0 +1,6 @@
+\form#0:\[ 1-e^{{x/scale}^{shape}} \]
+\form#1:\[ \frac{shape}{scale} (\frac{x}{scale}e^-{{x/scale}^{shape}} \]
+\form#2:\[ 1-e^{{\frac{x}{scale}}^{shape}} \]
+\form#3:\[ \frac{shape}{scale} (\frac{x}{scale} \cdot e^{-{\frac{x}{scale}}^{shape}} \]
+\form#4:\[ \frac{shape}{scale} (\frac{x}{scale} \cdot e^{-{\left(\frac{x}{scale}\right)}^{shape}} \]
+\form#5:\[ \frac{shape}{scale} \left(\frac{x}{scale} \cdot e^{-{\left(\frac{x}{scale}\right)}^{shape}}\right)\]

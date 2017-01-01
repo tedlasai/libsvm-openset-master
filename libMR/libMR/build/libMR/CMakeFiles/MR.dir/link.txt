@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g  -shared -Wl,-soname,libMR.so -o libMR.so CMakeFiles/MR.dir/weibull.c.o CMakeFiles/MR.dir/MetaRecognition.cpp.o 
